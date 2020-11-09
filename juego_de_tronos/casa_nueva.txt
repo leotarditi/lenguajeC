@@ -1,0 +1,9 @@
+C;Casa6;5;7
+I;Persona 4;15
+I;Persona 7;51
+I;Persona 9;20
+I;Persona 11;59
+I;Persona 13;58
+I;Persona 21;57
+I;Persona 6;57
+I;Persona 19;10

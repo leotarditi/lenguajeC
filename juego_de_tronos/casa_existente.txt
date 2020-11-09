@@ -1,0 +1,16 @@
+C;Casa2;10;10
+I;Persona 1;20
+I;Persona 2;5
+I;Persona 3;30
+I;Persona 4;5
+I;Persona 5;47
+I;Persona 6;1
+I;Persona 7;22
+I;Persona 8;12
+I;Persona 9;4
+I;Persona 10;41
+I;Persona 11;50
+I;Persona 12;9
+I;Persona 13;13
+I;Persona 14;100
+I;Persona 15;2

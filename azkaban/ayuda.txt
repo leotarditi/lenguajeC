@@ -1,0 +1,19 @@
+este programa lo que hace es generar archivos.
+
+si usted desea crear un archivo de presos que posiblemente sea perdonados
+debere presionar ./azkaban perdonables (el nombre del archivo que usted desee con .dat al final)
+si presiona esto se generara un archivo binario con los posibles presos perdonables.
+
+si usted desea crear un archivo de presos a liberar en determinada fecha y con determina conducta
+debe presionar ./azkaban liberar (fecha que usted desee con el formato aaaamm) (conducta desada)
+la conducta debe ser B si desea buena, R si desea regular, y M si desea M, tenga en cuenta que B es mejor que R mejor que M
+y esto le generara un archivo con el nombre liberados_<fecha> con los que cumplan las condiciones.
+
+si usted desea actualizar los archivos crucio.dat e imperius.dat
+debe presionar ./azkaban actualizar (la fecha que utilizo anteriormente)
+esto eliminara a los presos de crucio e imperius que estan en la lista de liberados
+y si usted sea ver por pantalla todos los nombre de los presos liberados.
+
+debe presionar ./azkaban mostrar_liberados (la fecha que viene utilizando)
+y esto le mostrar todos los presos que podran ser liberados en con la fecha y conducta que usted requirio
+si no funcionan los comandos quien programó esto se encuentra fuera de servicio.
